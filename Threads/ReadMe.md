@@ -1,4 +1,4 @@
-<b>Write a Java program which generates a set of random numbers and then determines negative, positive even, positive odd numbers concurrently</b><br>
+<b>1. Write a Java program which generates a set of random numbers and then determines negative, positive even, positive odd numbers concurrently</b><br>
   - File Name: DemoThreads.java
   - The program makes use of multithreading
   - 4 concurrent threads have been excecuted for the same<br>
